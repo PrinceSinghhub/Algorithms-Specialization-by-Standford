@@ -1,5 +1,5 @@
 # Algorithms-Specialization-by-Standford
-Algorithms Specialization by Sandford University This Repo Contain all the Assiment and Code of all 4 Course that offered by Sandford University 
+Algorithms Specialization by Sandford University This Repo Contain all the Assignment and Code of all 4 Course that offered by Sandford University 
 
 ![coursera-courses-alogorithms-specialization-stanford](https://user-images.githubusercontent.com/71000042/215199243-3a192abd-076e-430f-921a-d5c2067398ef.png)
 
